@@ -1,16 +1,11 @@
-# NewProvidence
+# My project NewProvidence
 
-## Project download
-```
-$ git clone https://github.com/krasnovdanial/ColmarAcademy.git or 
- you can download my files to your any directory.
-```
+[**Demo-online**](https://krasnovdanial.github.io/NewProvidence/)
 
-```
-Then run $ npm install in the repository of your choice.(node_modules)
-```
+### Testing local
 
-## How to use?
-```
-To start the browser syncing and file watching, just run $ gulp in the project directory.
+```sh
+git clone https://github.com/krasnovdanial/martaUP.git
+cd martaup
+Open index.html
 ```
