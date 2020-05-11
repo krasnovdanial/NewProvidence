@@ -5,7 +5,7 @@
 ### Testing local
 
 ```sh
-git clone https://github.com/krasnovdanial/martaUP.git
-cd martaup
+git clone https://github.com/krasnovdanial/NewProvidence.git
+cd NewProvidence
 Open index.html
 ```
